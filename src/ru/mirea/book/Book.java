@@ -1,4 +1,6 @@
+//Практическая 2(3) 
 package ru.mirea.book;
+
 
 public class Book {
     private int pages;
